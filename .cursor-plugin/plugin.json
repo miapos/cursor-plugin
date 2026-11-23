@@ -1,0 +1,14 @@
+{
+  "name": "miapos",
+  "displayName": "miaPOS",
+  "version": "0.1.0",
+  "description": "Accept instant account-to-account bank payments (MIA, Moldova) with miaPOS: add checkout to a shop or app, take a test payment by QR, check its status and verify signed callbacks. Payment tools run on the miaPOS test environment only.",
+  "author": { "name": "Finergy Tech", "email": "info@miapos.eu" },
+  "homepage": "https://miapos.eu/en/docs/paypoints/ecommerce/",
+  "repository": "https://github.com/miapos/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/icon.png",
+  "keywords": ["payments", "checkout", "qr-payments", "instant-payments", "a2a", "moldova", "mdl", "ecommerce", "miapos"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
